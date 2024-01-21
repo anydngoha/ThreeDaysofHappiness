@@ -8,6 +8,7 @@
     "1": {
       "title": "A Promise For Ten Years Time",
       "volume": "1",
+      "last_updated": "1616368746",
       "groups": {
         "fdafdsafa": [
           "https://imgur.com/aN4DC9C",
@@ -16,8 +17,7 @@
           "https://imgur.com/EdflYKD",
           "https://imgur.com/79bRFzq"
         ]
-      },
-      "last_updated": "1616368746"
+      }
     }
   }
 }
